@@ -1,4 +1,4 @@
-# EBRU
+
 #PYTHON EXAMPLE
 note=int(input("sayı giriniz:"))
 if 0<=note<=100:
